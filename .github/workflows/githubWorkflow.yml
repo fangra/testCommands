@@ -8,14 +8,18 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - name: Write the token into a file
+        run: 'echo ${{ secrets.DEVHUB_TOKEN}} > token.txt'
       - name: Install Salesforce CLI
         run: |
           wget https://developer.salesforce.com/media/salesforce-cli/sfdx-linux-amd64.tar.xz
           mkdir sfdx-cli
           tar xJf sfdx-linux-amd64.tar.xz -C sfdx-cli --strip-components 1
           ./sfdx-cli/install
+     #- name: Auth with the DevHub
+     #  run: 'sfdx force:auth:jwt:grant --clientid "3MVG91BJr_0ZDQ4sGlwvHvBKQnuU7rHglEkOXimYl611rBCY0jG2esnxo_GCrAGauVI6G0bq9qw==" --jwtkeyfile server3.key --username "wrawas-deloitte@aesio.fr" -a DevHub -d'
       - name: Auth with the DevHub
-        run: 'sfdx force:auth:jwt:grant --clientid "3MVG91BJr_0ZDQ4sGlwvHvBKQnuU7rHglEkOXimYl611rBCY0jG2esnxo_GCrAGauVI6G0bq9qw==" --jwtkeyfile server3.key --username "wrawas-deloitte@aesio.fr" -a DevHub -d'
+        run: 'sfdx force:auth:sfdxurl:store -f token.txt -a DevHub -d'
       - name: Create scratch org
         run: "sfdx force:org:create  --setdefaultusername -f config/project-scratch-def.json -a my-scratch --setalias soenv"
       - name: Password generation
