@@ -1,0 +1,304 @@
+{
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app",
+    "isDirectory": true,
+    "modifiedTime": 1635161518044,
+    "changeTime": 1635161518044,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "n",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main",
+    "isDirectory": true,
+    "modifiedTime": 1635161518048,
+    "changeTime": 1635161518048,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1635173075825,
+    "changeTime": 1635173075825,
+    "contentHash": "2420936b22f3c881de460db5ee082d43dff6db91",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\applications": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\applications",
+    "isDirectory": true,
+    "modifiedTime": 1635161518053,
+    "changeTime": 1635161518053,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\aura": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\aura",
+    "isDirectory": true,
+    "modifiedTime": 1635161518393,
+    "changeTime": 1635161518393,
+    "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\classes": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\classes",
+    "isDirectory": true,
+    "modifiedTime": 1635161518061,
+    "changeTime": 1635161518061,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\contentassets": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\contentassets",
+    "isDirectory": true,
+    "modifiedTime": 1635161518065,
+    "changeTime": 1635161518065,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\flexipages": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\flexipages",
+    "isDirectory": true,
+    "modifiedTime": 1635161518070,
+    "changeTime": 1635161518070,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\layouts": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\layouts",
+    "isDirectory": true,
+    "modifiedTime": 1635173075815,
+    "changeTime": 1635173075815,
+    "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\lwc": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\lwc",
+    "isDirectory": true,
+    "modifiedTime": 1635161684862,
+    "changeTime": 1635161684862,
+    "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\objects": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\objects",
+    "isDirectory": true,
+    "modifiedTime": 1635173075735,
+    "changeTime": 1635173075735,
+    "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\permissionsets": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\permissionsets",
+    "isDirectory": true,
+    "modifiedTime": 1635161518083,
+    "changeTime": 1635161518083,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\staticresources": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\staticresources",
+    "isDirectory": true,
+    "modifiedTime": 1635161518087,
+    "changeTime": 1635161518087,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\tabs": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\tabs",
+    "isDirectory": true,
+    "modifiedTime": 1635161518091,
+    "changeTime": 1635161518091,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\triggers": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\triggers",
+    "isDirectory": true,
+    "modifiedTime": 1635161518096,
+    "changeTime": 1635161518096,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands",
+    "isDirectory": true,
+    "modifiedTime": 1635161855732,
+    "changeTime": 1635161855732,
+    "contentHash": "f256f31c33b9703fca49f805fff88c08ac759e0a",
+    "state": "n",
+    "isWorkspace": true
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\objects\\Account\\fields": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\objects\\Account\\fields",
+    "isDirectory": true,
+    "modifiedTime": 1635173075744,
+    "changeTime": 1635173075744,
+    "contentHash": "e20a7bc64ed94a23082e9d9d8468764d4f77dd6b",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\objects\\Account": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\objects\\Account",
+    "isDirectory": true,
+    "modifiedTime": 1635173075746,
+    "changeTime": 1635173075746,
+    "contentHash": "c5969b9c985ca395a81da87a6334b04dd42cfe9f",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\objects\\Account\\validationRules": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\objects\\Account\\validationRules",
+    "isDirectory": true,
+    "modifiedTime": 1635173075751,
+    "changeTime": 1635173075751,
+    "contentHash": "b41a1a28446a49f664b6ac15bcfba458943a8506",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\profiles": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\profiles",
+    "isDirectory": true,
+    "modifiedTime": 1635173075876,
+    "changeTime": 1635173075876,
+    "contentHash": "2996638dbca4f09f2246a8dd3938106590f1a93f",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\objects\\Account\\validationRules\\SC_VR_DateVerification.validationRule-meta.xml": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\objects\\Account\\validationRules\\SC_VR_DateVerification.validationRule-meta.xml",
+    "size": 360,
+    "modifiedTime": 1635173075752,
+    "changeTime": 1635173075752,
+    "contentHash": "14487e7c776758cdad69561977b0c2b4ebac4b0d",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ValidationRule"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+    "size": 9637,
+    "modifiedTime": 1635173075778,
+    "changeTime": 1635173075778,
+    "contentHash": "b0353f5760d83ae9383da6398d43bbeb38042c64",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Layout"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\objects\\Account\\fields\\SC_Account_Date__c.field-meta.xml": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\objects\\Account\\fields\\SC_Account_Date__c.field-meta.xml",
+    "size": 327,
+    "modifiedTime": 1635173075744,
+    "changeTime": 1635173075744,
+    "contentHash": "d05371e4067ef134fd04e68b68e8be2ac6cfb68a",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+    "size": 9589,
+    "modifiedTime": 1635173075795,
+    "changeTime": 1635173075795,
+    "contentHash": "0377883b63ef6f6434e16525099b4b7425d975f7",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Layout"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+    "size": 9589,
+    "modifiedTime": 1635173075815,
+    "changeTime": 1635173075815,
+    "contentHash": "ec741a8362a08ce6c1eb4c000df13174de15bde8",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Layout"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+    "size": 4720,
+    "modifiedTime": 1635173075838,
+    "changeTime": 1635173075838,
+    "contentHash": "3dee84ad6c6893dc9869cdb77c898b9475044ef0",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+    "size": 4716,
+    "modifiedTime": 1635173075847,
+    "changeTime": 1635173075847,
+    "contentHash": "53b413abbca4646f4fee308d55d504701a0ef363",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\profiles\\ReadOnly.profile-meta.xml": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\profiles\\ReadOnly.profile-meta.xml",
+    "size": 4288,
+    "modifiedTime": 1635173075829,
+    "changeTime": 1635173075829,
+    "contentHash": "a1476afa8e841f59a34a806642f882b6ee7bb92d",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+    "size": 9637,
+    "modifiedTime": 1635173075807,
+    "changeTime": 1635173075807,
+    "contentHash": "37501d28fc0435a74410a331ef438819fa004cbb",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Layout"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+    "size": 21220,
+    "modifiedTime": 1635173075869,
+    "changeTime": 1635173075869,
+    "contentHash": "974edf0c415c3cf512a04281f09861e97886fe19",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml": {
+    "sourcePath": "C:\\Users\\mfangra\\Desktop\\testcommands\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+    "size": 5056,
+    "modifiedTime": 1635173075876,
+    "changeTime": 1635173075876,
+    "contentHash": "0122459a7891596a9857cfd49687290bba57a97c",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  }
+}

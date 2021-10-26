@@ -1,0 +1,77 @@
+{
+  "serverMaxRevisionCounter": 31,
+  "sourceMembers": {
+    "CustomField__Account.SC_isActive__c": {
+      "serverRevisionCounter": 11,
+      "lastRetrievedFromServer": 11,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 30,
+      "lastRetrievedFromServer": 30,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__ReadOnly": {
+      "serverRevisionCounter": 29,
+      "lastRetrievedFromServer": 29,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__Custom: Sales Profile": {
+      "serverRevisionCounter": 27,
+      "lastRetrievedFromServer": 27,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__Custom: Marketing Profile": {
+      "serverRevisionCounter": 26,
+      "lastRetrievedFromServer": 26,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__Custom: Support Profile": {
+      "serverRevisionCounter": 28,
+      "lastRetrievedFromServer": 28,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Layout__Account-Account (Marketing) Layout": {
+      "serverRevisionCounter": 22,
+      "lastRetrievedFromServer": 22,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Account-Account (Sales) Layout": {
+      "serverRevisionCounter": 23,
+      "lastRetrievedFromServer": 23,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Account-Account (Support) Layout": {
+      "serverRevisionCounter": 24,
+      "lastRetrievedFromServer": 24,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Account-Account Layout": {
+      "serverRevisionCounter": 25,
+      "lastRetrievedFromServer": 25,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "CustomField__Account.SC_Account_Date__c": {
+      "serverRevisionCounter": 21,
+      "lastRetrievedFromServer": 21,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "ValidationRule__Account.SC_VR_DateVerification": {
+      "serverRevisionCounter": 31,
+      "lastRetrievedFromServer": 31,
+      "memberType": "ValidationRule",
+      "isNameObsolete": false
+    }
+  }
+}
